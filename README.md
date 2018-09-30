@@ -2,7 +2,7 @@
 SENSOR CODES FOR  NodeMcu
 
 
-##LDR 
- LDR significa Light Dependent Resistor
- 
+<h1>LDR</h1> 
+<p>ldr stands for Light Dependent Resistor.</p>
+
  
